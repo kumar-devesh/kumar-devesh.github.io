@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kumar-devesh
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - kumar-devesh/DevRev_InterIIT_PS
+  - kumar-devesh/MAZE
+  - kumar-devesh/BOSCH-MODEL-EXTRACTION-ATTACK-FOR-VIDEO-CLASSIFICATION
+  - kumar-devesh/papers_we_read
+  - kumar-devesh/cycleGAN
