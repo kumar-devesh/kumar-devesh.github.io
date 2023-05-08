@@ -1,12 +1,12 @@
 ---
-layout: page
-title: projects
-permalink: /projects/
-description: List of projects that I have worked on.
-nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+# layout: page
+# title: projects
+# permalink: /projects/
+# description: List of projects that I have worked on.
+# nav: true
+# nav_order: 2
+# display_categories: [work, fun]
+# horizontal: false
 ---
 
 <!-- pages/projects.md -->

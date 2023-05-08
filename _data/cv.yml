@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.Tech, Conmputer Science and Engineering
+    - title: B.Tech, Computer Science and Engineering
       institution: Indian Institute of Technology Roorkee, Roorkee, India
       year: 2020 - 2024
       # description:
@@ -25,6 +25,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Product Engineer Intern (Upcoming)
+      institution: Sprinklr, Gurgaon, India
+      year: May 2023 - July 2023
+      # description:
+      #   - Worked as an alpha researcher, reading and implementing research papers on technical and macroeconomic alphas. 
     - title: Global Alpha Researcher
       institution: Trexquant LLP, Connecticut, USA (Remote)
       year: Oct 2022 - Nov 2022
