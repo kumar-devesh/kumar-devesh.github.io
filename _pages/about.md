@@ -10,14 +10,14 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Kumar Devesh</p>
-    <p><i>CS Junior</i></p>
+    <p><i>CS Senior</i></p>
     <p><em>Indian Institute of Technology, Roorkee</em></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hey there! I'm a third-year student at IIT Roorkee, majoring in Computer Science and Engineering. I passionately follow the developments in the fields of computer science with potential real world impacts, particularly interested in deep learning. 
+Hey there! I'm a final-year student at IIT Roorkee, majoring in Computer Science and Engineering. I passionately follow the developments in the fields of computer science with potential real world impacts, particularly interested in deep learning. 
 
 As a member of the Vision and Language Group at IIT Roorkee, I actively participate in weekly discussions on the latest research in deep learning. I enjoy exploring the latest advances in the rapidly advancing field of deep learning, with a focus on how these techniques can be applied to financial markets.
 
